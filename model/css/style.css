@@ -1,0 +1,37 @@
+.item{
+    position: relative;
+
+}
+.card-info{
+    position: absolute;
+    background-color:white;
+    padding: 10px;
+    bottom: 15%;
+    width: 80%;
+    left: 10%;
+  
+
+}
+.overlay{
+
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    bottom: 0%;
+}
+.child-layer{
+    background-image: url(../img/istockphoto-185280886-612x612.jpg);
+   
+    height: 50%;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.exitt{
+    top:5%;
+    right: 5%;
+    
+}
